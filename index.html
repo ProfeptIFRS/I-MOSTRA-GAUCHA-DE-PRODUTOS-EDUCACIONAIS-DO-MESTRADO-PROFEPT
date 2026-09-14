@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mostra Gaúcha de Produtos Educacionais do Mestrado ProfEPT | Mural Interativo</title>
+    <meta name="description"
+        content="Mural interativo apresentando os trabalhos e produtos educacionais aprovados na Mostra Gaúcha de Produtos Educacionais do Mestrado ProfEPT das instituições IFSUL, IFRS e IFFAR.">
+    <meta name="keywords"
+        content="ProfEPT, Produtos Educacionais, EPT, Mostra Gaúcha, IFSUL, IFRS, IFFAR, Mestrado Profissional">
+    <meta name="theme-color" content="#6366f1">
+
+    <!-- Google Fonts: Outfit & Plus Jakarta Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body data-theme="light">
+
+    <!-- APP HEADER -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div class="brand-section">
+                <div class="brand-logo-wrap" title="Mostra Gaúcha de Produtos Educacionais do Mestrado ProfEPT">
+                    <img src="logo.png" alt="Logo Mostra Gaúcha ProfEPT" class="brand-logo-img">
+                </div>
+                <div class="brand-text">
+                    <h1>
+                        <span class="brand-title-gradient">Mostra Gaúcha de Produtos Educacionais do Mestrado ProfEPT</span>
+                    </h1>
+                    <div class="brand-subtitle">
+                        <span>Mural Interativo dos Trabalhos Aprovados</span>
+                        <span>•</span>
+                        <span>IFSUL • IFRS • IFFAR</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Stats Counter -->
+            <div class="header-stats" title="Resumo geral de trabalhos">
+                <div class="stat-chip">
+                    <span>📚 Total:</span>
+                    <strong id="totalBadge">46</strong>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-chip">
+                    <span>🔬 Linha 1:</span>
+                    <strong id="l1Badge">32</strong>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-chip">
+                    <span>🏛️ Linha 2:</span>
+                    <strong id="l2Badge">14</strong>
+                </div>
+            </div>
+
+            <!-- Header Actions & Theme Selector -->
+            <div class="header-controls">
+                <button class="btn-header" id="btnOpenStats" title="Ver gráficos e distribuição dos trabalhos">
+                    <span>📊</span>
+                    <span>Estatísticas</span>
+                </button>
+
+                <div class="theme-dropdown-wrap">
+                    <select id="themeSelect" class="sort-select" title="Alterar tema visual do mural">
+                        <option value="light" selected>☀️ Tema: Clean Light</option>
+                        <option value="dark">🎨 Tema: Cosmic Dark</option>
+                        <option value="corkboard">📌 Tema: Mural Cortiça</option>
+                        <option value="blueprint">📐 Tema: Blueprint</option>
+                        <option value="emerald">🌿 Tema: Esmeralda EPT</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- TOOLBAR: SEARCH & FILTERS -->
+    <section class="filter-toolbar" aria-label="Filtros e Busca">
+        <div class="toolbar-main-row">
+            <!-- Search Input -->
+            <div class="search-wrapper">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" class="search-input"
+                    placeholder="Pesquisar por título, autor, palavras-chave, resumo..." autocomplete="off"
+                    aria-label="Buscar trabalhos">
+                <span class="search-clear" id="searchClear" title="Limpar busca">✕</span>
+                <span class="search-kbd" title="Atalho de teclado">/</span>
+            </div>
+
+            <!-- View Mode Switcher -->
+            <div class="view-switcher" role="group" aria-label="Modo de Visualização">
+                <button class="view-btn active" data-view="columns" title="Colunas por Linha de Pesquisa">
+                    <span>📑</span>
+                    <span>Colunas</span>
+                </button>
+                <button class="view-btn" data-view="masonry" title="Mural Livre Masonry">
+                    <span>🧱</span>
+                    <span>Mural</span>
+                </button>
+                <button class="view-btn" data-view="grid" title="Grade Compacta">
+                    <span>▦</span>
+                    <span>Grade</span>
+                </button>
+                <button class="view-btn" data-view="list" title="Visualização em Lista">
+                    <span>☰</span>
+                    <span>Lista</span>
+                </button>
+            </div>
+
+            <!-- Sort Selection -->
+            <div class="sort-wrap">
+                <label for="sortSelect" style="font-size: 0.8rem; color: var(--text-muted);">Ordenar:</label>
+                <select id="sortSelect" class="sort-select">
+                    <option value="id-asc">Padrão (Planilha #01 - #46)</option>
+                    <option value="id-desc">Mais Recentes Primeiro</option>
+                    <option value="title-asc">Título (A-Z)</option>
+                    <option value="ia">Instituição (IFSUL / IFRS / IFFAR)</option>
+                    <option value="likes-desc">Mais Curtidos ❤️</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Filter Chips Row -->
+        <div class="filter-chips-row">
+            <span class="filter-group-label">Instituição:</span>
+            <button class="filter-chip" data-ia="IFSUL">IFSUL</button>
+            <button class="filter-chip" data-ia="IFRS">IFRS</button>
+            <button class="filter-chip" data-ia="IFFAR">IFFAR</button>
+
+            <span class="filter-group-label" style="margin-left: 0.5rem;">Linha:</span>
+            <button class="filter-chip" data-linha="L1" title="Linha 1: Práticas Educativas em EPT">Linha 1
+                (Práticas)</button>
+            <button class="filter-chip" data-linha="L2" title="Linha 2: Organização e Memórias na EPT">Linha 2
+                (Memórias)</button>
+
+            <span class="filter-group-label" style="margin-left: 0.5rem;">Mídia:</span>
+            <button class="filter-chip" data-media="video">🎬 Vídeos</button>
+            <button class="filter-chip" data-media="interactive">📖 Interativos</button>
+            <button class="filter-chip" data-media="drive">💾 Drive</button>
+        </div>
+
+        <!-- Status Bar -->
+        <div class="filter-status-bar">
+            <span>Exibindo: <strong id="resultsCount">47 trabalhos</strong></span>
+            <button class="reset-filters-btn" id="btnResetAllFilters">Limpar todos os filtros</button>
+        </div>
+    </section>
+
+    <!-- PADLET MAIN CONTAINER -->
+    <main class="padlet-main-container" id="padletContainer">
+        <!-- Rendered dynamically by js/app.js -->
+    </main>
+
+    <!-- MODAL DE DETALHES COMPLETO -->
+    <div class="modal-backdrop" id="detailModal" aria-hidden="true">
+        <!-- Populated by js/app.js -->
+    </div>
+
+    <!-- MODAL DE ESTATÍSTICAS -->
+    <div class="modal-backdrop" id="statsModal" aria-hidden="true">
+        <!-- Populated by js/app.js -->
+    </div>
+
+    <!-- TOAST CONTAINER -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- FOOTER -->
+    <footer class="app-footer">
+        <p>
+            <strong>Mostra Gaúcha de Produtos Educacionais do Mestrado ProfEPT</strong> &bull; 46 Trabalhos Aprovados &bull;
+            IFSUL &bull; IFRS &bull; IFFAR
+        </p>
+        <p style="font-size: 0.75rem; margin-top: 0.4rem; color: var(--text-muted);">
+            Desenvolvido com padrão visual Padlet interativo, design responsivo e acessibilidade.
+        </p>
+    </footer>
+
+    <!-- CONFIGURAÇÃO E MOTOR DE COMENTÁRIOS (SERVIDOR PRÓPRIO) -->
+    <script src="js/server-config.js?v=3"></script>
+    <script src="js/comments.js?v=3"></script>
+    <script src="js/data.js?v=3"></script>
+    <script src="js/app.js?v=3"></script>
+</body>
+
+</html>

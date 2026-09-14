@@ -1,0 +1,1654 @@
+// Dataset gerado a partir de APROVADOS.xlsx (46 registros)
+const TRABALHOS_DATA = [
+  {
+    "id": 1,
+    "code": "PE-01",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "CONTRIBUIÇÕES DOS JOGOS COOPERATIVOS NA EDUCAÇÃO FÍSICA, EM BUSCA DE UMA FORMAÇÃO HUMANA INTEGRAL, NO CONTEXTO DO PROEJA - UM ESTUDO NA PROEJA DO IFRS - CÂMPUS ALVORADA.",
+    "authors": [
+      {
+        "name": "Luis César Marques de Almeida",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Itamar Luís Hammes",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional desta pesquisa, intitulado “Contribuições dos Jogos Cooperativos na Educação Física, em busca de uma Formação Humana Integral, no contexto do PROEJA - um estudo no IFRS - Campus Alvorada”, materializa o percurso investigativo deste Mestrado Profissional. Este recurso, estruturado na forma de um VÍDEO informativo, foi concebido como uma estratégia de mediação pedagógica que visa articular o referencial teórico com a prática docente cotidiana, buscando promover a formação integral dos estudantes. O material foi desenvolvido pelo mestrando Luis César Marques de Almeida, no âmbito do PROFEPT/IFSUL - Campus Charqueadas, com o objetivo de apresentar os Jogos Cooperativos sob uma abordagem pedagógica emancipadora, com potencial à mobilização social. Ao mesmo tempo em que busca contribuir para o debate acadêmico sobre as metodologias inclusivas e colaborativas na Educação Física, voltada para jovens e adultos.\nA construção do roteiro do Vídeo fundamentou-se em um diálogo constante entre o referencial teórico, a análise documental, as abstrações do diário de campo e uma intervenção pedagógica (aula envolvendo jogos cooperativos), realizada com os educandos do terceiro semestre do curso Técnico em Cuidado de Idosos, integrado ao PROEJA. Nesta abordagem pedagógica com jogos Cooperativos, vivenciaram de maneira lúdica, o trabalho coletivo, a empatia, socialização, inclusão, análise crítica, criatividade. O Vídeo procura mostrar como estes conceitos e iniciativas pedagógicas associadas aos Jogos Cooperativos na educação física têm o potencial de mobilizar os educandos em sua formação humana integral, estimulando suas participações críticas em seus cotidianos.",
+    "keywords": [
+      "Produto Educacional",
+      "Jogos Cooperativos",
+      "PROEJA",
+      "Formação Humana Integral",
+      "Educação Física",
+      "Educação Profissional e Tecnológica"
+    ],
+    "links": [
+      {
+        "url": "https://youtu.be/LOMMflN7UkE?si=iDyhLFYQdMqeCv9L",
+        "type": "youtube",
+        "label": "Assistir no YouTube",
+        "yt_id": "LOMMflN7UkE"
+      }
+    ],
+    "media_type": "video",
+    "likes": 0
+  },
+  {
+    "id": 2,
+    "code": "PE-02",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "O \"CAFÉ COM A EJA\": UMA TECNOLOGIA RELACIONAL PARA A PROMOÇÃO DO CURRÍCULO INTEGRADO NA EJA-EPT",
+    "authors": [
+      {
+        "name": "Paulo Ricardo Boesch Junior",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Nei Jairo Fonseca dos Santos Junior",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional \"Café com a EJA: Espaço de formação e diálogo da EJA-EPT\", desenvolvido no âmbito do ProfEPT/IFSul – Câmpus Charqueadas, consiste em um roteiro metodológico estruturado (classificado como Curso/Oficina de Formação Profissional – PTT2) voltado a orientar gestores e equipes pedagógicas na mediação de encontros formativos contínuos no próprio local de trabalho. Concebido a partir do diagnóstico de isolamento entre as áreas técnica e propedêutica (o \"arquipélago docente\") e da carência de formação específica para atuar com o estudante trabalhador adulto, o material constitui uma tecnologia relacional. Ao subverter modelos tradicionais de cartilhas prescritivas ou palestras conteudistas, a proposta utiliza a cultura do convívio e da partilha como dispositivo para aproximar os pares e viabilizar o planejamento integrado. O roteiro organiza-se em quatro módulos dinâmicos (1h30 de duração): Acolhimento e Convívio, Olhando para os Sujeitos da EJA, Artesania Docente (Troca de Práticas) e Planejame",
+    "keywords": [
+      "Produto Educacional",
+      "Formação Continuada",
+      "Currículo Integrado",
+      "Educação de Jovens e Adultos",
+      "Educação Profissional e Tecnológica",
+      "Trabalho Pedagógico"
+    ],
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/10oPI7RIkDy0jK82O2-rdzra1m39Hfq-4/view?usp=sharing",
+        "type": "drive",
+        "label": "Abrir no Google Drive",
+        "yt_id": null
+      }
+    ],
+    "media_type": "drive",
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "code": "PE-03",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFRS",
+    "titulo": "Biblioconect@: dicas sobre pesquisa científica para o Ensino Médio Integrado",
+    "authors": [
+      {
+        "name": "Paula Porto Pedone",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Liliane Madruga Prestes",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Bibioconect@ é, um produto educacional desenvolvido para apoiar estudantes do Ensino Médio Integrado na realização de pesquisas científicas com mais autonomia, criticidade e segurança. Em formato de vídeo educacional aberto, o material apresenta, de forma acessível e dinâmica, orientações sobre as etapas da pesquisa, a busca e avaliação de fontes confiáveis, o uso ético da informação e a prevenção do plágio. Criado a partir de uma pesquisa de mestrado sobre letramento informacional no contexto da Educação Profissional e Tecnológica do IFRS Campus Restinga, o Biblioconect@ dialoga com as demandas reais dos estudantes e com as práticas educativas do Ensino Médio Integrado. Sua proposta valoriza a pesquisa como princípio educativo e aproxima o universo da investigação científica das linguagens juvenis e dos recursos audiovisuais que fazem parte do cotidiano dos jovens. Além de orientar estudantes, o produto também se constitui como ferramenta de apoio para docentes e bibliotecários/as na mediação de práticas de pesquisa escolar. Assim, esse PE fortalece o papel da biblioteca, incentiva o uso crítico e responsável da informação e contribui para a formação humana integral na educação pública, gratuita e de qualidade.",
+    "keywords": [
+      "Biblioteca",
+      "Letramento Informacional",
+      "Educação Profissional e Tecnológica",
+      "Pesquisa como Princípio Educativo",
+      "Práticas educativas",
+      "Ensino Médio Integrado"
+    ],
+    "links": [
+      {
+        "url": "https://dspace.ifrs.edu.br/xmlui/handle/123456789/2692",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 4,
+    "code": "PE-04",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "GAYME: o jogo como estratégia para acolhimento de estudantes LGBTQIAPN+ na Educação Profissional e Tecnológica",
+    "authors": [
+      {
+        "name": "Vanessa de Sá Colovini Silveira",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Medeiros de Azevedo Prates",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Gayme é um jogo de tabuleiro com temática LGBTQIAPN+, desenvolvido como produto educacional a partir da pesquisa de mestrado intitulada Estratégias de Acolhimento a Estudantes LGBTQIAPN+ na Educação Profissional e Tecnológica, elaborada no Programa de Pós-graduação em Educação Profissional e Tecnológica (ProfEPT), ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense (IFSul) – Câmpus Charqueadas. A pesquisa teve como objetivo analisar estratégias de acolhimento a estudantes LGBTQIAPN+ nos cursos técnico--integrados de Mecatrônica e Informática no IFSul Câmpus Charqueadas, identificando o papel institucional na formação humana e integral. A partir dos resultados obtidos, o jogo foi criado como uma ferramenta que objetiva promover um espaço interativo de reflexão e debate, oferecendo informações relevantes sobre identidade de gênero, orientação sexual, direitos LGBTQIAPN+ e outras temáticas relacionadas. Este jogo reafirma o entendimento de que aprender sobre essas temáticas é uma forma de produzir convivência democrática e de respeito. Dessa forma, o Gayme contribui para que estudantes e educadores/as possam dialogar sobre essas questões, fortalecendo práticas de acolhimento no ambiente escolar e ampliando este acolhimento para além dos muros da escola.",
+    "keywords": [
+      "LGBTQIAPN+",
+      "Gênero e sexualidade",
+      "Juventudes",
+      "Educação Profissional e Tecnológica",
+      "LGBT+",
+      "Acolhimento"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1133480",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 5,
+    "code": "PE-05",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "POLÍTICAS PARA O ENFRENTAMENTO AO ASSÉDIO MORAL A SERVIDORAS NO ÂMBITO DO IFSUL",
+    "authors": [
+      {
+        "name": "Melissa Araujo da Silva",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Medeiros de Azevedo Prates",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional selecionado para esta pesquisa consiste em um site intitulado \"Mulheres em Pauta\". Sua concepção foi planejada com o propósito de informar o público sobre um tema de grande relevância para as mulheres, que tem recebido pouca atenção no âmbito das instituições: o assédio moral no ambiente de trabalho. O objetivo do site é disponibilizar informações de maneira dinâmica e clara, abrangendo diversos aspectos relacionados ao assunto. O site \"Mulheres em Pauta\" oferece um panorama abrangente sobre o tema, apresentando informações sobre as autoras envolvidas no projeto e explorando os conceitos fundamentais relacionados a gênero, divisão sexual do trabalho e assédio moral, os quais serviram como embasamento teórico para a pesquisa. A intenção é fornecer um embasamento sólido e acessível aos visitantes do site, permitindo que compreendam a natureza e as implicações do assédio moral no contexto laboral.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "Mulheres",
+      "Assédio moral",
+      "Trabalho",
+      "ProfEPT"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/737441",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 6,
+    "code": "PE-06",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "BORBOLINDA: UMA HISTORIA DE INCLUSÃO",
+    "authors": [
+      {
+        "name": "Edson Roberto Martins Pessel",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Medeiros de Azevedo Prates",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto buscou dar ênfase à trajetória da primeira discente com deficiência visual do IFSul Charqueadas e, a partir dessa trajetória, em uma narrativa que entremeia experiências vividas no processo de inclusão com elementos fictícios inspirados em contos da literatura juvenil, tornar possível contarmos, em uma história, experiências reais. Desse modo, apresentando ao leitor outra perspectiva de conhecimento a concepções, normatizações e formas de acessibilidade que se fizeram presentes no percurso da estudante, considerando seus limites e possibilidades.",
+    "keywords": [
+      "Inclusão"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/598474",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 7,
+    "code": "PE-07",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFRS",
+    "titulo": "O MakerIFC como Produto Educacional: Uma Plataforma para a Socialização do Conhecimento na Educação Profissional e Tecnológica",
+    "authors": [
+      {
+        "name": "Jonatan Marguti Pereira",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Aline Grunewald Nichele",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto foi idealizado a partir do diagnóstico de uma necessidade nos laboratórios do Instituto Federal Catarinense (IFC): a escassez de registros e a pouca disseminação dos projetos desenvolvidos pelos estudantes para além do espaço físico do laboratório. A plataforma busca solucionar esse isolamento, democratizando o acesso às produções científicas e tecnológicas, estimulando o protagonismo discente e fortalecendo a Cultura Maker no contexto da formação integral na EPT.\nEstrutura e Funcionalidades\nDesenvolvida como uma plataforma web colaborativa em tecnologia de código aberto (WordPress) e com layout responsivo para celulares e computadores, a ferramenta organiza-se em quatro seções principais:\nEspaços Maker do IFC: Mapeia a estrutura física e divulga os projetos (concluídos e em andamento) de cada campus participante (Araquari, Brusque, Camboriú, Fraiburgo, Luzerna e Sombrio), oferecendo campo para comentários e feedback.\nTutoriais: Reúne guias práticos e passo a passo produzidos pela comunidade para o uso autônomo de equipamentos, como impressoras 3D, cortadoras a laser CNC e processos de reciclagem de filamentos.\nPublicações: Atua como um repositório acadêmico para organizar e dar visibilidade a artigos, resumos e trabalhos apresentados pelos estudantes em feiras de ciências, mostras e congressos.\nFóruns: Espaço para troca assíncrona de experiências, dividido por áreas temáticas (Robótica, Programação, Eletrônica, Fabricação Digital, entre outras), além de tópicos para dúvidas gerais e indicação de fornecedores.\nA ferramenta ainda dispõe de edição colaborativa, histórico de edições e interação comunitária, garantindo a rastreabilidade do conteúdo e transformando o conhecimento individual em um acervo coletivo da instituição.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "Cultura Maker",
+      "Tecnologias da Informação e Comunicação",
+      "Produto Educacional",
+      "Socialização do Conhecimento"
+    ],
+    "links": [
+      {
+        "url": "https://dspace.ifrs.edu.br/xmlui/handle/123456789/2718",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 8,
+    "code": "PE-08",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Bibliotecário Inclusivo: Guia de Tecnologias Assistivas (TA) para estimular a leitura para as pessoas com deficiência (PcD)",
+    "authors": [
+      {
+        "name": "Vivian Iracema Marques Ritta",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Renata Porcher Scherer",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional “Bibliotecário Inclusivo: Guia de Tecnologias Assistivas (TA) para estimular a leitura para as pessoas com deficiência (PcD)” foi desenvolvido com o propósito de apoiar os bibliotecários do Sistema de Bibliotecas do Instituto Federal Sul-rio-grandense (SiBIFSul) na promoção de práticas mais inclusivas e acessíveis.\n\nO guia apresenta, de forma prática e acessível, conceitos, ferramentas e exemplos de Tecnologias Assistivas que podem contribuir para ampliar o acesso à leitura e à informação das pessoas com deficiência. O material reúne recursos gratuitos, diferentes formatos de leitura acessível e indicações de acervos especializados, buscando auxiliar o bibliotecário na identificação e utilização dessas tecnologias em sua atuação profissional.\n\nDessa forma, o produto busca fortalecer o papel do bibliotecário como mediador da informação e agente de inclusão, contribuindo para a autonomia dos estudantes e para a construção de bibliotecas mais acessíveis, acolhedoras e comprometidas com a igualdade de oportunidades.",
+    "keywords": [
+      "Tecnologia Assistiva",
+      "Pessoa com Deficiência",
+      "Biblioteca Escolar",
+      "Acessibilidade",
+      "Leitura Inclusiva",
+      "Educação Profissional e Tecnológica"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/748084",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 9,
+    "code": "PE-09",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "BAH! QUE CONVERSA: UM PRODUTO EDUCACIONAL PARA, COM E SOBRE JUVENTUDES",
+    "authors": [
+      {
+        "name": "ANDREIA RODRIGUES ESCOBAR",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "DANIELA MEDEIROS DE AZEVEDO PRATES",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "“Bah! Que Conversa”, produto educacional de áudio conteúdo, no formato de podcast,.",
+    "keywords": [
+      "Juventudes",
+      "Participação política de jovens",
+      "Podcast",
+      "Educação Profissional e Tecnológica",
+      "ProfEPT"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/bitstream/capes/920974/2/Bah%20que%20conversa.pdf",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 10,
+    "code": "PE-10",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Relações de trabalho e gênero na educação profissional e tecnológica - EPT",
+    "authors": [
+      {
+        "name": "Pérsida Pereira da Silva",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Medeiros de Azevedo Prates",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O material apresentado traz concepções de gênero, de patriarcado e apresenta discussões sobre o que se constituiu historicamente como papel de mulher e papel de homem na sociedade e como isso ainda reflete no dia a dia da trabalhadora em educação profissional e tecnológica. Traz relatos de situações de opressão e exploração de gênero vividas no dia a dia pelas trabalhadoras em EPT.",
+    "keywords": [
+      "gênero",
+      "educação profissional",
+      "mulheres"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/732459",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 11,
+    "code": "PE-11",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFFAR",
+    "titulo": "RODAS DE CONVERSA COMO ESPAÇO-TEMPO DE FORMAÇÃO PERMANENTE COM DOCENTES NA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA (EPT)",
+    "authors": [
+      {
+        "name": "DANIELA GONÇALVES OLIVEIRA",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "TANIAMARA VIZZOTTO CHAVES",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional intitulado Rodas de Conversa como Espaço-Tempo de Formação Permanente com Docentes da Educação Profissional e Tecnológica resulta da pesquisa “Desenvolvimento Profissional Docente na Educação Profissional e Tecnológica da Rede Pública Estadual do Rio Grande do Sul: entrelaçando formação, saberes e vivências”, desenvolvida no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT). O estudo teve como objetivo propor e sistematizar uma metodologia formativa dialógica voltada ao desenvolvimento profissional docente, tendo como base a realização de rodas de conversa com professores da rede estadual, compreendidas como espaços-tempo de formação permanente.",
+    "keywords": [
+      "Educação Profissional e Tecnológica (EPT)",
+      "Desenvolvimento Profissional Docente (DPD)",
+      "Formação Permanente com docentes",
+      "Rodas de Conversa"
+    ],
+    "links": [
+      {
+        "url": "https://integra.iffarroupilha.edu.br/tecnologias/produto-tecnico-tecnologico/rodas-de-conversa-como-espaco-tempo-de-formacao-permanente-com-docentes-da-educacao-profissional-e-tecnologica",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 12,
+    "code": "PE-12",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFFAR",
+    "titulo": "Guia Informativo para a EJA-EPT/EF (ProfEPT - IFFar)",
+    "authors": [
+      {
+        "name": "Elisabete Vieira Pinheiro",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Ana Cláudia de Oliveira da Silva",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O presente produto educacional, intitulado Guia Informativo para a EJA-EPT/EF (ProfEPT - IFFar), desenvolvido no âmbito do curso de Mestrado Profissional em Educação Profissional e Tecnológica em Rede Nacional (ProfEPT) do Instituto Federal Farroupilha - Campus Jaguari, foi elaborado com vista a contribuir para o fortalecimento da parceria do IFFar com a Escola Municipal de Ensino Fundamental Pinheiro Machado. Sua elaboração é o resultado do que foi interpretado como sendo as necessidades daquela comunidade escolar, após a realização da pesquisa “Permanência de trabalhadores-estudantes na EJA integrada à Educação Profissional e Tecnológica: um estudo de caso em uma escola da rede municipal parceira do IFFar”. O referido estudo teve como objetivo verificar formas de fortalecer as ações de permanência na EJA-EPT/Ensino Fundamental, contribuindo para o êxito dos trabalhadores-estudantes matriculados nos cursos do Programa EJA Integrada, ofertados pelo IFFar  em parceria com a Prefeitura Municipal de Santa Maria/RS.",
+    "keywords": [
+      "Práticas Educativas",
+      "Educação Profissional e Tecnológica (EPT)",
+      "Educação de Jovens e Adultos (EJA)",
+      "Permanência e Êxito",
+      "Comunicação Educativa"
+    ],
+    "links": [
+      {
+        "url": "https://heyzine.com/flip-book/5f63dd1fe5.html#page/1",
+        "type": "flipbook",
+        "label": "Visualizar Flipbook",
+        "yt_id": null
+      }
+    ],
+    "media_type": "interactive",
+    "likes": 0
+  },
+  {
+    "id": 13,
+    "code": "PE-13",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFFAR",
+    "titulo": "PROTOCOLO DE ACOMPANHAMENTO INDIVIDUALIZADO: UMA ESTRATÉGIA PARA PROMOÇÃO DA PERMANÊNCIA E DO ÊXITO NA EJA/EPT",
+    "authors": [
+      {
+        "name": "Debora Gabriel de Melo",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Ricardo Antonio Rodrigue",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Este trabalho foi realizado com o intuito de apresentar o Produto Educacional desenvolvido junto à pesquisa de mestrado no Programa de Pós-Graduação em Educação Profissional e Tecnológica ofertado pelo Campus Jaguari do Instituto Federal Farroupilha, disponível no Portal Educapes no link: https://educapes.capes.gov.br/handle/capes/1174744 .\nA Educação de Jovens e Adultos integrada à Educação Profissional e Tecnológica (EJA/EPT) caracteriza-se por atender sujeitos cujas trajetórias escolares são frequentemente marcadas por interrupções, inserção precoce no mundo do trabalho e múltiplas vulnerabilidades sociais. No caso dos Institutos Federais é o público mais vulnerável atendido por nossas instituições. Também por isso, a evasão escolar constitui um dos principais desafios enfrentados pelas instituições de ensino, evidenciando a necessidade de estratégias institucionais que ultrapassem o acesso e garantam condições efetivas de permanência e êxito. \nDiante disso, o presente trabalho tem como problema central compreender de que forma ações institucionais sistematizadas podem contribuir para a permanência dos estudantes da EJA/EPT. Como resposta a essa problemática, apresenta-se a elaboração e análise de um Produto Educacional no formato de um Protocolo de Acompanhamento Individualizado, desenvolvido no âmbito do Instituto Federal Farroupilha – Campus Jaguari. O objetivo geral do estudo consiste em promover a permanência e o êxito dos estudantes da EJA/EPT por meio da implementação de um processo sistemático e individualizado de acompanhamento. \nComo objetivos específicos, destacam-se: identificar fatores de risco associados à evasão escolar; desenvolver estratégias de intervenção pedagógica e socioassistencial; articular a atuação da equipe multiprofissional; monitorar indicadores acadêmicos, como frequência e desempenho; e registrar e avaliar as ações desenvolvidas ao longo do acompanhamento.",
+    "keywords": [
+      "Educação de Jovens e Adultos",
+      "Permanência escolar",
+      "Evasão escolar",
+      "Educação Profissional e Tecnológica",
+      "Acompanhamento individualizado"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1174744",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 14,
+    "code": "PE-14",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Para Seu Manoel #cartasdedança",
+    "authors": [
+      {
+        "name": "NICOLE CEZAR FISCHER",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Renata Porcher Scherer",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto Educacional- Para Seu Manoel #cartasdedança, é um vídeo de dança que conecta dança e palavra, onde a pesquisa acadêmica da autora é transformada em carta dançada e escrita para o escritor Manoel de Barros. O vídeo de dança e a carta escrita refeletem sobre a pesquisa realizada com os alunos e toda a escrita acadêmica, referencial teórico, trajetória academica e atravessamentos da vida pessoal da autora.",
+    "keywords": [
+      "DANÇA- EDUCAÇÃO- EDUCAÇÃO PROFISSIONAL- ARTE"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/972806",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 15,
+    "code": "PE-15",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "FORMAÇÃO DOCENTE NA EDUCAÇÃO INTEGRADA: UMA CAMINHADA NECESSÁRIA",
+    "authors": [
+      {
+        "name": "Lionei Alves Brocca",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto intitulado “Formação Docente na Educação Integrada: uma caminhada necessária” é fruto de pesquisa, aplicação e validação em um dos campi do Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense – IFSul, sendo posta em prática pelo mestrando Lionei Alves Brocca, sob orientação da Professora Doutora Luciana Neves Loponte. A elaboração deste produto educacional expressa uma proposta de formação, para professores do Ensino Médio Integrado (EMI), que tem por objetivo oportunizar uma atividade formativa capaz de ampliar e/ou consolidar os entendimentos pertinentes à proposta pedagógica da instituição, e promover a abertura de espaços coletivos para estudo, discussão, elaboração e planejamento de estratégias que integrem de maneira mais efetiva teoria e prática. Desenvolver esta proposta permitiu a abertura de espaços para que os professores envolvidos caminhem na direção de um mesmo objetivo. Além disso, é preciso potencializar a integração entre conhecimentos teóricos e práticos, contribuindo, por conseguinte, para a superação da dualidade educacional, e possibilitando uma caminhada em direção à formação omnilateral dos sujeitos.",
+    "keywords": [
+      "Educação Integrada",
+      "Ensino Médio Integrado",
+      "Formação Docente",
+      "Formação Continuada",
+      "Dualidade Educacional",
+      "Formação Omnilateral"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/559803",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 16,
+    "code": "PE-16",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFFAR",
+    "titulo": "APRENDIZAGEM, MEDIAÇÃO E O SETOR DE ASSESSORIA PEDAGÓGICA",
+    "authors": [
+      {
+        "name": "Lisangela Bringhenti da Rosa",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Marcele Teixeira Homrich Ravasio",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "o Produto Educacional (PE) resultante da pesquisa de metrado classifica-se como um Material didático/instrucional, na forma de material textual, do tipo ARTIGO, intitulado: Aprendizagem, mediação e o Setor de Assessoria Pedagógica.",
+    "keywords": [
+      "Mediação",
+      "Aprendizagem",
+      "Assessoria Pedagógica",
+      "Ensino Médio Integrado"
+    ],
+    "links": [
+      {
+        "url": "https://drive.google.com/drive/u/1/my-drive",
+        "type": "drive",
+        "label": "Abrir no Google Drive",
+        "yt_id": null
+      }
+    ],
+    "media_type": "drive",
+    "likes": 0
+  },
+  {
+    "id": 17,
+    "code": "PE-17",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "GUIA DE INGRESSO NO IFSUL PELA LEI DE COTAS: LEI N.º 12.711/2012",
+    "authors": [
+      {
+        "name": "Daiana Schons",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Renata Porcher Scherer",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional consiste em um Guia sobre a política de ações afirmativas para o ingresso no IFSul, elaborado a partir de pesquisa qualitativa realizada no Câmpus Venâncio Aires, no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT). Fundamentado nas Leis nº 12.711/2012 e nº 13.409/2016, o Guia apresenta informações sobre as modalidades de cotas, o processo de ingresso e a documentação necessária. Elaborado em linguagem simples e com recursos de acessibilidade, busca ampliar a compreensão das informações e contribuir para a efetivação do direito à informação e para a acessibilidade virtual.",
+    "keywords": [
+      "Ingresso",
+      "Lei n.º 12.711/2012",
+      "Linguagem simples",
+      "Educação Profissional e Tecnológica",
+      "Produto educacional"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/746048",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 18,
+    "code": "PE-18",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFRS",
+    "titulo": "A Formação humana integral, o trabalho como princípio educativo e a dualidade histórica na formação de educadores da Aprendizagem Profissional: Um Produto Educacional em diálogo com os desafios do Programa Jovem Aprendiz",
+    "authors": [
+      {
+        "name": "Valéria Regina da Silva Neutzling",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Andréia Modrzejewski Zucolotto",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Produto Educacional do ProfEPT que objetiva contribuir com a formação continuada de educadores da Aprendizagem Profissional (Programa Jovem Aprendiz) - AP/PJA - visando aproximações aos princípios basilares da EPT, especialmente sobre o trabalho como princípio educativo e a superação da dualidade histórica, na perspectiva da formação humana integral e da concepção da proteção integral de jovens e adolescentes. Foi aplicado e avaliado no contexto de uma ação de extensão, como um Minicurso de 20 horas. Sua avaliação evidenciou demanda por formação de educadores da AP/PJA que proporcione reflexão crítica sobre a dualidade histórica e a formação humana integral.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "Formação humana integral",
+      "Trabalho como princípio educativo",
+      "Aprendizagem Profissional (Programa Jovem Aprendiz)",
+      "Formação de educadores"
+    ],
+    "links": [
+      {
+        "url": "https://integra.ifrs.edu.br/tecnologias/produto-tecnico-tecnologico/roteiro-de-oficinas--a-formacao-humana-integral--o-trabalho-como-principio-educativo-e-a-dualidade-historica-na-formacao-de-educadores-da-aprendizagem-profissional--programa-jovem-aprendiz-",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 19,
+    "code": "PE-19",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Educação Física e Inclusão: contribuições de um Produto Educacional para a prática docente no Ensino Médio Integrado",
+    "authors": [
+      {
+        "name": "Fernanda Maurente Machado",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Renata Pocher Sherer",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional desenvolvido é um guia de orientação para professores de Educação Física, com o objetivo de auxiliar na inclusão de estudantes com deficiência nas aulas do Ensino Médio Integrado do IFSul. O material foi elaborado a partir dos resultados da pesquisa de Mestrado sobre os saberes necessários aos professores para desenvolver práticas inclusivas. Sua construção foi orientada pelos eixos conceitual, pedagógico e comunicacional de Kaplún (2003).O guia apresenta informações, sugestões de atividades, estratégias pedagógicas e recursos que podem auxiliar os professores no planejamento e desenvolvimento de aulas mais inclusivas. As propostas podem ser adaptadas de acordo com as características dos estudantes, dos conteúdos e da realidade de cada escola.Dessa forma, o Produto Educacional busca aproximar conhecimento teórico e prática docente, oferecendo aos professores um material de apoio para enfrentar os desafios da inclusão e ampliar a participação dos estudantes com deficiência nas aulas de Educação Física.",
+    "keywords": [
+      "Educação Física escolar",
+      "práticas pedagógicas inclusivas",
+      "deficiência",
+      "formação docente",
+      "acessibilidade pedagógica"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/747991",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 20,
+    "code": "PE-20",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "A EDUCAÇÃO PARA OS DIREITOS HUMANOS COMO PERSPECTIVA DE FORTALECIMENTO DA CIDADANIA NA FORMAÇÃO INICIAL DE PROFESSORES",
+    "authors": [
+      {
+        "name": "Luciane Andressa Zimmer Linck",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Marta Helena Tessmann",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional “A Educação para os Direitos Humanos como Perspectiva de Fortalecimento da Cidadania na Formação Inicial de Professores” constitui-se como um curso de formação docente, elaborado no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT) e disponibilizado no Portal eduCAPES.\n\nO produto parte da compreensão de que a Educação em Direitos Humanos desempenha papel fundamental na formação inicial de docentes, para a compreensão de direitos, deveres e concepções humanitárias para a construção de uma sociedade pautada pela democracia, pela cidadania, pelo respeito à dignidade humana e pela valorização da diversidade. \n\nNesse sentido, o curso busca proporcionar aos professores em formação conhecimentos e reflexões que contribuam para a incorporação da perspectiva dos Direitos Humanos às práticas educativas.\n\nA proposta articula formação docente, Educação em Direitos Humanos e cidadania, buscando favorecer uma perspectiva de educação comprometida não apenas com a transmissão de conhecimentos, mas também com a formação crítica, ética e cidadã, numa concepção integral, constituindo-se como recurso pedagógico para subsidiar processos formativos de professores e contribuir para o desenvolvimento de práticas educativas orientadas pela promoção, proteção e valorização dos Direitos Humanos.\n\nO produto está disponível no Portal eduCAPES, em formato de curso, com acesso ao material educacional produzido. O registro oficial identifica como autores Luciane Andressa Zimmer Link e Marta Helena Tessmann, com publicação em 2020.",
+    "keywords": [
+      "EDH",
+      "Formação Docente",
+      "Educação"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/585657",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 21,
+    "code": "PE-21",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Como elaborar projetos de pesquisa científica?: soluções sustentáveis a partir dos princípios da Química Verde",
+    "authors": [
+      {
+        "name": "Tainá Freitas de Freitas",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Renata Porcher Scherer",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional “Como elaborar projetos de pesquisa científica?: soluções sustentáveis a partir dos princípios da Química Verde” tem como objetivo auxiliar professores na inserção da pesquisa científica em suas práticas pedagógicas e orientar estudantes na elaboração de projetos de pesquisa a partir de problemas reais do contexto escolar. A proposta articula a Aprendizagem Baseada em Problemas (ABP) aos doze princípios da Química Verde. O material foi desenvolvido no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT) do Instituto Federal Sul-rio-grandense (IFSul) Câmpus Charqueadas, e aplicado com estudantes do Curso Técnico em Química do Instituto Estadual de Educação Assis Chateaubriand, em Charqueadas/RS, por meio de um projeto de extensão.",
+    "keywords": [
+      "Alfabetização científica",
+      "Aprendizagem Baseada em Problemas",
+      "Pesquisa como princípio pedagógico",
+      "Ensino de Química",
+      "Química Verde"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/1179344",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 22,
+    "code": "PE-22",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFRS",
+    "titulo": "Práticas de Ensino de Ciências comprometidas com a formação integral: sequência didática para o Curso Normal",
+    "authors": [
+      {
+        "name": "Simone Rosanelli Dullius",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Andreia Modrzejewski Zucolotto",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional \"PRÁTICAS DE ENSINO DE CIÊNCIAS COMPROMETIDAS COM A FORMAÇÃO INTEGRAL: SEQUÊNCIA DIDÁTICA PARA O CURSO NORMAL\" é um e-book pedagógico desenvolvido no âmbito do ProfEPT/IFRS (Campus Porto Alegre). Destinado a professores formadores e estudantes do Curso Normal, o recurso apresenta uma Sequência Didática estruturada para qualificar o ensino na disciplina de Estudos de Ciências da Natureza. O material articula-se em três eixos da Alfabetização Científica: a compreensão da Natureza da Ciência, a apropriação contextualizada dos Conteúdos Científicos e a análise dos Impactos da Ciência e Tecnologia na Sociedade e no Ambiente (CTSA). Trata-se de um guia orientador, investigativo e reflexivo, concebido para instrumentalizar as futuras educadoras em prol de uma práxis pedagógica crítica, humana e emancipatória.",
+    "keywords": [
+      "Educação profissional",
+      "Formação de professores",
+      "Ciências"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/738756",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 23,
+    "code": "PE-23",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFFAR",
+    "titulo": "Educação financeira na EJA/EPT: orientações sobre Renda Extra, Planejamento Financeiro e Investimentos",
+    "authors": [
+      {
+        "name": "ARIOANE PRIMON SOARES",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "MAURICIO RAMOS LUTZ",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "A cartilha “Educação financeira na EJA/EPT: orientações sobre Renda Extra, Planejamento Financeiro e Investimentos” foi desenvolvida no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT) do Instituto Federal Farroupilha (IFFar) - Campus Jaguari. O material é um Produto Educacional (PE) do tipo didático/instrucional, elaborado a partir da pesquisa “Práticas Educativas Transformadoras: promovendo a Educação Financeira em uma turma da EJA/EPT”. Para sua construção, realizou-se um levantamento com os estudantes, visando compreender o perfil socioeconômico da turma e identificar os temas de maior interesse em Educação Financeira. Os três assuntos mais votados foram Renda Extra, Planejamento Financeiro e Investimentos, que, por sua vez, representam os pilares essenciais da área: saber ganhar, planejar e investir dinheiro. O PE foi fundamentado na economia comportamental, considerando fatores emocionais, sociais, culturais e psicológicos que influenciam a tomada de decisões financeiras. Além disso, a abordagem pedagógica foi adaptada ao público-alvo, formado por trabalhadores com baixos salários e pouca qualificação profissional, um segmento muitas vezes negligenciado por materiais convencionais de Educação Financeira. O design gráfico foi desenvolvido na plataforma Canva, garantindo um layout atrativo e uma linguagem acessível. Dessa forma, o PE busca oferecer uma solução prática e aplicável ao contexto dos jovens e adultos trabalhadores da EJA/EPT, promovendo maior autonomia financeira e qualificação para decisões econômicas mais seguras.",
+    "keywords": [
+      "Educação Financeira",
+      "EJA/EPT",
+      "Práticas Educativas",
+      "Renda Extra",
+      "Planejamento Financeiro",
+      "Investimentos"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/922439",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 24,
+    "code": "PE-24",
+    "linha": "Linha 1 - Práticas Educativas em EPT",
+    "linha_code": "L1",
+    "ia": "IFSUL",
+    "titulo": "Saúde e Qualidade de Vida dos Estudantes do IFSul Câmpus Charqueadas RS",
+    "authors": [
+      {
+        "name": "DÉBORA REGINA VIEIRA BERTOLLO",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "MARTA BLANK TESSMANN",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Com o resultado da pesquisa da Dissertação intitulada Saúde e Qualidade de Vida nas aulas de Educação Física com os estudantes elaborou-se um Produto Educacional, ação pedagógica denominado Sua Saúde em Jogo, que simula um jogo de tabuleiro, cujo objetivo é discutir e refletir sobre as questões levantados no instrumento de coleta dos dados. Um jogo dinâmico, coletivo visando a participação e reflexão sobre questões de saúde e qualidade de vidados estudantes.",
+    "keywords": [
+      "SAUDE",
+      "QUALIDADE DE VIDA",
+      "EDUCAÇÃO FÍSICA",
+      "IFSUL"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/746046",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 25,
+    "code": "PE-25",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Desistências em Foco: trajetórias de jovens-alunos que não permaneceram no IFSul Campus Charqueadas",
+    "authors": [
+      {
+        "name": "Lucimeire Silva Staats",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Medeiros de Azevedo Prates",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional desenvolvido é um Jornal Informativo, onde constam os principais resultados da pesquisa realizada. Buscou-se através dele apresentar dados que pudessem auxiliar no enfrentamento do fenômeno das evasões/desistências no Campus Charqueadas/IFSUL e, consequentemente, promover a permanência e êxito dos estudantes nos cursos investigados.",
+    "keywords": [
+      "Educação Profissional",
+      "Ensino Médio Integrado",
+      "Evasão",
+      "Desistência",
+      "Juventudes",
+      "Jovens-alunos"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/585737",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 26,
+    "code": "PE-26",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Reforma do Ensino Médio e da Educação Profissional (Lei Nº 13.415/2017)",
+    "authors": [
+      {
+        "name": "LISANGELA TEIXEIRA LACERDA",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "MARIA RAQUEL CAETANO",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional “Reforma do Ensino Médio e da Educação Profissional (Lei nº 13.415/2017)” consiste em uma revista digital destinada a docentes, gestores, estudantes, funcionários e famílias. Elaborada a partir da pesquisa sobre as repercussões da Reforma no Instituto Estadual de Educação Assis Chateaubriand, em Charqueadas/RS, apresenta, de forma acessível e dinâmica, o histórico e os principais aspectos da Reforma do Ensino Médio, com destaque para o 5º Itinerário Formativo e sua implementação no Rio Grande do Sul. O produto busca ampliar conhecimentos, promover reflexão crítica e fortalecer o debate sobre os impactos da reforma na formação profissional.",
+    "keywords": [
+      "Reforma do ensino médio",
+      "Quinto etinerário",
+      "docentes"
+    ],
+    "links": [
+      {
+        "url": "https://heyzine.com/flip-book/ca545e9a39.html%23page/1",
+        "type": "flipbook",
+        "label": "Visualizar Flipbook",
+        "yt_id": null
+      }
+    ],
+    "media_type": "interactive",
+    "likes": 0
+  },
+  {
+    "id": 27,
+    "code": "PE-27",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Sequência de Videorreportagens em Revista Digital: A Experiência de Educação Continuada no TJRS",
+    "authors": [
+      {
+        "name": "Edenir Gomes",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Maria Raquel Caetano",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional foi concebido no formato de videorreportagem multimídia agregada em uma revista digital intitulada \"Acadêmico & Digital\". Hospedada na plataforma Wix para garantir fácil navegação via computadores e dispositivos móveis. O acervo é composto por 20 vídeos postados no YouTube. O conteúdo contempla aspectos teóricos, entrevistas, história da educação no TJRS e avaliação do produto.",
+    "keywords": [
+      "revista digital",
+      "videorreportagem",
+      "sequência didática",
+      "educação tecnológica",
+      "tecnologias digitais",
+      "recurso pedagógico"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/599410",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 28,
+    "code": "PE-28",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "PROPOSTA DE ORÇAMENTO PARTICIPATIVO PARA O IFSUL CAMPUS SAPUCAIA DO SUL",
+    "authors": [
+      {
+        "name": "Schirlei Gaelzer",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional da dissertação consiste em um site com uma proposta de implantação do Orçamento Participativo no IFSul – Campus Sapucaia do Sul, buscando promover a participação de toda a comunidade acadêmica nas decisões relacionadas ao uso dos recursos orçamentários.\n\nA proposta foi construída a partir das contribuições da comunidade e dos entrevistados, considerando as características da instituição, mas pode ser adaptada a outras realidades. Sua implantação depende principalmente do compromisso da gestão em compartilhar as decisões sobre os recursos e do interesse da comunidade em participar.\n\nO modelo é flexível e passível de aprimoramento, podendo ser ampliado conforme a avaliação dos resultados e as necessidades da comunidade. O site apresenta conceitos de orçamento público, vídeo explicativo, metodologia do processo, dados orçamentários do campus, cronograma e espaço para comentários e sugestões.",
+    "keywords": [
+      "Gestão democrática",
+      "Participação",
+      "Orçamento",
+      "Instituto Federal"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/729837",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 29,
+    "code": "PE-29",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "RELATÓRIO DIAGNÓSTICO: A IMPORTÂNCIA DA FORMAÇÃO EM QUÍMICA NO MUNICÍPIO DE TRIUNFO-RS",
+    "authors": [
+      {
+        "name": "Luciane Esswein",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional é um relatório diagnóstico criado por intermédio das informações geradas pela pesquisa intitulada “Uma análise do currículo do curso Técnico em Química da Escola Técnica Municipal Farroupilha de Triunfo, RS, com aporte da abordagem Ciência – Tecnologia – Sociedade (CTS): prática docente e expectativas dos estudantes concluintes”, que teve por principal objetivo investigar o contexto dos cursos Técnico em Química, na modalidade subsequente e integrada ao Ensino Médio, como vem sendo desenvolvidos, tendo como referência os estudos em Ciência – Tecnologia – Sociedade (CTS).",
+    "keywords": [
+      "Educação Profissional",
+      "Ciência-Tecnologia -Sociedade",
+      "Currículo",
+      "Projeto Político Pedagógico",
+      "Curso Técnico em Química"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/703703",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 30,
+    "code": "PE-30",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "O PROCESSO DE IMPLANTAÇÃO DOS CURSOS TÉCNICOS INTEGRADOS NO IFSUL - PASSO FUNDO",
+    "authors": [
+      {
+        "name": "Roseli Nunes Rico Gonçalves",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "A organização do produto educacional está estruturada em três partes. A primeira apresenta o Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense e destaca a trajetória do Campus Passo Fundo desde sua criação, em 2007, contextualizando o espaço institucional em que ocorreu a pesquisa. A segunda aborda os principais marcos legais e normativos relacionados à Educação Profissional e Tecnológica e ao Ensino Médio Integrado, possibilitando ao leitor compreender os fundamentos que orientaram a proposta de implantação dos cursos. A terceira parte concentra-se no processo de implantação dos primeiros cursos de EMI de Informática e Mecânica no Campus Passo Fundo, apresentando registros documentais, relatos e memórias dos servidores participantes, compondo uma narrativa coletiva sobre esse importante momento da história institucional. Ao reunir documentos, fotografias e diferentes vozes que participaram desse processo, o produto valoriza os sujeitos e as experiências que contribuíram para a construção dos cursos integrados.",
+    "keywords": [
+      "Ensino Médio Integrado",
+      "Memória Institucional",
+      "Educação Profissional e Tecnológica",
+      "IFSul"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/599700",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 31,
+    "code": "PE-31",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Documentário: A Educação do Campo no MST e suas contribuições na formação profissional da Juventude Camponesa no Instituto Educar.",
+    "authors": [
+      {
+        "name": "Josene Aparecida dos Santos",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Este produto visa compartilhar e ampliar reflexões, problematizar o tema da educação de qualidade no e do campo e discutir o envolvimento da juventude na luta pela ampliação de direitos em diversas dimensões da vida da classe trabalhadora.",
+    "keywords": [
+      "Educação do Campo",
+      "Egressos",
+      "Pedagogia do Movimento"
+    ],
+    "links": [
+      {
+        "url": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.xhtml?popup=true&id_trabalho=13728116",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 32,
+    "code": "PE-32",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Afonso e Sofia conhecem a consciência de classe",
+    "authors": [
+      {
+        "name": "Gabriel de Castro Tereza",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Animação de aproximadamente 8 minutos de duração, voltada para os trabalhadores terceirizados dos Institutos Federais, cujo tema central é a consciência de classe,",
+    "keywords": [
+      "consciência de classe",
+      "trabalhadores terceirizados",
+      "sentidos do trabalho",
+      "produto educacional",
+      "ProfEPT",
+      "institutos federais"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/747801",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 33,
+    "code": "PE-33",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "PERCEPÇÕES DOS(AS) ESTUDANTES DO EMI DO CAMPUS RESTINGA DO IFRS SOBRE AS ATIVIDADES REMOTAS",
+    "authors": [
+      {
+        "name": "Bruna Daniele da Silva",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional se intitula \"PERCEPÇÕES DOS(AS) ESTUDANTES DO EMI DO CAMPUS RESTINGA DO IFRS SOBRE AS ATIVIDADES REMOTAS\" (desenvolvidas durante a Pandemia de Covid-19) e foi finalizado no ano de 2022. Foi desenvolvido a partir de pesquisa sobre a mesma temática realizado no Programa de Pós-graduação em Educação Profissional e Tecnológica (ProfEPT) pela Profa. Mestra Bruna Daniele da Silva sob orientação da Profa. Doutora Luciana Neves Loponte.",
+    "keywords": [
+      "Estudantes",
+      "Permanência Escolar",
+      "Ensino Médio Integrado",
+      "IFRS Campus Restinga",
+      "Atividades Remotas"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/701352",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 34,
+    "code": "PE-34",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFRS",
+    "titulo": "Sequência Didática: Pesquisa na Internet e Identificação de Fake News",
+    "authors": [
+      {
+        "name": "Juliano Souto Moreira da Silva Stumpf",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Maria Cristina Caminha de Castilhos França",
+        "role": "Orientador(a)"
+      },
+      {
+        "name": "Lucília Regina de Souza Machado",
+        "role": "Coorientador(a) / Coautor(a)"
+      }
+    ],
+    "resumo": "Este produto educacional foi parte integrante da dissertação obrigatória para a obtenção de aprovação no Mestrado de Educação Profissional e Tecnológica realizado no Instituto Federal do Rio Grande do Sul - Campus Porto Alegre (IFRSPoa). Assim sendo, ele é fruto das análises obtidas junto à pesquisa “Educação digital e emancipação humana: indagações ao projeto Decola da ONG Coletivo Autônomo Morro da Cruz”, desenvolvida por este, agora, mestre sob a orientação da professora Dra. Maria Cristina Caminha de Castilhos França e a coorientação da professora Dra. Lucília Regina de Souza Machado.\nIntitulado “Sequência Didática: Pesquisa na internet e identificação de fake news”, o presente produto educacional tem como objetivo orientar a prática da educação digital lecionada pelos educadores do projeto Decola. Ele é uma consequência direta do diálogo entre os educadores e a Equipe Diretiva da ONG Coletivo Autônomo Morro da Cruz, os estudantes do projeto Decola e este então mestrando.\nNo rol das informações obtidas sobre a base da educação digital desenvolvida na instituição, foi detectada a importância de trabalhar os conceitos de informática e de tecnologia como um todo, por meio de um viés emancipador que entendesse tal tipo de artefato como mais uma produção humana frente à necessidade de sobrevivência do homem na sua relação com a natureza. \nPara tanto, o produto educacional consiste na realização de uma sequência didática que promove o trabalho pedagógico de dois assuntos que pontuam as relações mediadas pela informática: a pesquisa por meio de buscadores da internet e a veracidade das informações que ali são obtidas. Isto é, a classificação de tais informações em verdadeiras ou falsas – sendo essas as chamadas fake news, informações fakes ou simplesmente fake.\nA ideia que embasou tal produto educacional surgiu do diálogo estabelecido entre este pesquisador e os integrantes da ONG Coletivo Autônomo Morro da Cruz, sejam eles os estudantes do projeto Decola ou os próprios responsáveis pelo ensino da instituição, isto é, os educadores e a coordenação pedagógica do curso. A investigação se deu por meio de um roteiro de perguntas semiestruturadas, com questionamentos diretamente elaborados para cada categoria de entrevistado, sempre objetivando entender como ocorre a educação digital no projeto Decola desenvolvido pela ONG Coletivo MDC.\nConforme dados levantados, a ONG Coletivo Autônomo Morro da Cruz produz, há mais de dez anos, um trabalho de enfrentamento às questões sociais na localidade de mesmo nome da instituição (Morro da Cruz). No que se refere ao projeto Decola, objeto escolhido para entender o fomento da educação digital, assim como outras questões que envolvem a Educação Profissional e Tecnológica, ele se estende para além de um curso voltado estritamente para o ensino de informática. Visto que em seu programa existem outras disciplinas que trabalham demais perspectivas, tais como esporte, desenvolvimento pessoal e inteligência emocional, expressão e cidadania. \nComo já foi mencionado, apesar de a educação digital não ser o único foco do projeto Decola, ela se torna um importante instrumento de mudança social na Comunidade do Morro da Cruz, pois é considerada um elemento que pode promover uma ascensão social via conquista de uma vaga de trabalho ou estágio após a conclusão do curso. \nPor outro lado, a preocupação desenvolvida por esta pesquisa dialoga com o dilema de entender a tecnologia em uma sociedade hipermodernizada, que praticamente está ‘afogada’ nas mais diversas parafernálias tecnológicas em suas mais diversas esferas. Por exemplo, aparelhos celulares, desktops, laptops, smartwatches, mecanismos de realidade aumentada etc., e isso sem contar o uso maciço das ditas inteligências artificiais. Nesse sentido, compreender o papel em que a tecnologia é empregada nesta sociedade fluída se torna condição sine qua non para entender o desenvolvimento socioprodutivo desta mesma sociedade. Assim como desvendar as relações econômicas que definem o discurso neutro da tecnologia como elemento inerente à condição humana. Em outras palavras, entender quais as consequências que o emprego da tecnologia gera no mundo de hoje, principalmente no sistema econômico capitalista que estimula diversas desigualdades para manter o seu status quo e sua estrutura fundamental intacta: a condição existencial de dominantes e dominados.\nPara tal objetivo, o estudo se apoia nas ideias sobre tecnologia que foram formuladas pelo filósofo brasileiro Álvaro Vieira Pinto que, mesmo não realizando uma pesquisa específica voltada para a educação digital, desde os anos 1960-70 já alertava para os perigos do discurso tecnológico como sendo um agente neutro ou ainda um agente que só potencializa maravilhas na sociedade humana. O que, de fato, não corresponde à realidade de quaisquer ferramentas da tecnologia porque elas, em resumo, não modificam o processo histórico por si só. \nConforme defende a obra de Vieira Pinto (2005), não há uma questão de neutralidade no uso da tecnologia. Aliás, muito pelo contrário: ela assume interesses e posicionamentos, haja vista que é produzida pelos seres humanos como forma de sobreviver frente à natureza. Portanto, não é a tecnologia que molda a condição humana como um agente transformador da sociedade, mas é o ser humano que provoca a mudança da técnica para possibilitar sua existência, uma vez que possui a consciência da necessidade de intervenção na natureza para poder continuar o seu processo de viver. \nLogo, o que se propôs e foi construído aqui, tendo em vista os pressupostos teóricos de Vieira Pinto (2005) para a tecnologia, é que a educação digital seja vista como um outro letramento na vida dos estudantes. Uma outra forma de alfabetização capaz de promover uma leitura de mundo que possui como elemento principal o uso de ferramentas voltadas à informática, tais como softwares, hardwares, programas, aplicativos, entre outras, que se relacionam às TDICs (Tecnologias Digitais de Informação e Comunicação).",
+    "keywords": [
+      "Letramento Digital",
+      "Educação Emancipatória",
+      "Vieira Pinto",
+      "Projeto Decola",
+      "Coletivo Autônomo Morro da Cruz",
+      "Fake News"
+    ],
+    "links": [
+      {
+        "url": "https://repositorio.ifrs.edu.br/handle/123456789/2586",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 35,
+    "code": "PE-35",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "ORÇAMENTO PÚBLICO NA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA: CONHECIMENTO E PARTICIPAÇÃO NA GESTÃO ORÇAMENTÁRIA DO IFRS CAMPUS RESTINGA",
+    "authors": [
+      {
+        "name": "PEDRO SERGIO MENDES LEITE",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Como resultado da pesquisa foi desenvolvido um produto educacional composto de duas etapas, a primeira consiste em vídeos para chamamento da comunidade escolar com informações básicas sobre os processos orçamentários, a segunda composta de alterações no site do Campus com informações acessíveis, organizadas e com maior conteúdo. O produto educacional desenvolvido foi elaborado de acordo com preferência apontada pelo questionário de pesquisa, para isso foram elaborados vídeos contendo informações sobre o Plano de Ação (PA), Plano de Desenvolvimento Institucional (PDI) e Projeto Pedagógico Institucional (PPI).",
+    "keywords": [
+      "Gestão democrática",
+      "Orçamento",
+      "Educação Profissional e Tecnológica"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/1000929",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 36,
+    "code": "PE-36",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "DOCUMENTÁRIO NARRATIVAS DOS SUJEITOS DO PROEJA DO CURSO SECRETARIADO DO IFSul CÂMPUS VENÂNCIO AIRES",
+    "authors": [
+      {
+        "name": "RUTI ANGELA BARBOSA OLIVEIRA",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Patrícia Mendes Calixto",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional é um documentário audiovisual de 31 minutos e 57 segundos, intitulado Narrativas dos Sujeitos do Proeja do Curso Secretariado do IFSul Câmpus Venâncio Aires. A produção apresenta narrativas de três estudantes egressos do Curso Técnico em Secretariado, abordando suas trajetórias escolares, os motivos do retorno aos estudos, os desafios enfrentados, as relações estabelecidas com colegas, professores e instituição, a assistência estudantil, as contribuições do Proeja para suas vidas e suas perspectivas futuras.\n\nO documentário foi concebido como recurso audiovisual de caráter participativo e reflexivo, buscando dar visibilidade às experiências dos sujeitos e possibilitar sua utilização em contextos educativos. O produto encontra-se disponibilizado no YouTube e conta com recursos de transcrição e legendas, conforme descrito em sua apresentação.",
+    "keywords": [
+      "Proeja",
+      "Educação de Jovens e Adultos",
+      "Educação Profissional e Tecnológica",
+      "Narrativas",
+      "Documentário",
+      "Produto Educacional"
+    ],
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=zUmkMOBWh8I&t=1s",
+        "type": "youtube",
+        "label": "Assistir no YouTube",
+        "yt_id": "zUmkMOBWh8I"
+      }
+    ],
+    "media_type": "video",
+    "likes": 0
+  },
+  {
+    "id": 37,
+    "code": "PE-37",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "LÓGICA DE PROGRAMAÇÃO NO CURSO TÉCNICO EM INFORMÁTICA BOAS PRÁTICAS DE ENSINO NA EPT Contribuições para a Permanência e o Êxito no IFSul - Campus Gravataí",
+    "authors": [
+      {
+        "name": "Heitor Boeira dos Reis Filho",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Walkiria Helena Cordenonzi",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional “Lógica de Programação no Curso Técnico em Informática: Boas Práticas de Ensino na EPT” foi desenvolvido no âmbito do ProfEPT a partir de uma pesquisa sobre as dificuldades de aprendizagem e a evasão relacionadas à disciplina de Lógica de Programação no IFSul – Campus Gravataí.\n\nO material reúne reflexões, estratégias pedagógicas, práticas avaliativas e sequências didáticas destinadas a apoiar professores no planejamento de aulas mais contextualizadas, participativas e significativas. A proposta busca enfrentar dificuldades cognitivas, emocionais e pedagógicas, contribuindo para transformar a Lógica de Programação de um possível “muro” em uma “ponte” para a permanência e o êxito dos estudantes.",
+    "keywords": [
+      "Lógica de Programação",
+      "Pensamento Computacional",
+      "Permanência e Êxito",
+      "Educação Profissional e Tecnológica",
+      "Práticas Pedagógicas",
+      "Evasão Escolar"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1179650",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 38,
+    "code": "PE-38",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFRS",
+    "titulo": "Resgate Histórico das Relações Curriculares entre os ensinos médio propedêutico e técnico no Câmpus Pelotas do IFSul",
+    "authors": [
+      {
+        "name": "Gabriel de Oliveira Xavier",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Maria Cristina Caminha de Castilhos França",
+        "role": "Orientador(a)"
+      },
+      {
+        "name": "Lucília Regina de Souza Machado",
+        "role": "Coorientador(a) / Coautor(a)"
+      }
+    ],
+    "resumo": "O produto educacional é um vídeo documentário resultante da pesquisa desenvolvida no Mestrado em Educação Profissional e Tecnológica do IFRS Câmpus Porto Alegre, e busca refletir sobre as relações curriculares desenvolvidas no IFSul Câmpus Pelotas durante o período imediatamente anterior à implantação do Decreto nº 2.208/1997, durante a sua vigência e após a implantação do Decreto nº 5.154/2004.",
+    "keywords": [
+      "Ensino Médio Integrado",
+      "Decreto 2.208/97",
+      "5.154/2004",
+      "Educação Profissional",
+      "História da Educação"
+    ],
+    "links": [
+      {
+        "url": "https://dspace.ifrs.edu.br/xmlui/handle/123456789/1780",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 39,
+    "code": "PE-39",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Conhecendo e refletindo sobre o Programa de Gestão e Desempenho através da escuta.",
+    "authors": [
+      {
+        "name": "Cíntia Goulart Teixeira Gomes",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Douglas João Orben",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional consiste em um podcast, organizado em uma série de três episódios, elaborado a partir dos resultados da pesquisa desenvolvida no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT). A pesquisa teve como objetivo analisar as novas relações de trabalho desenvolvidas a partir da implantação do Programa de Gestão e Desempenho (PGD) no Instituto Federal Sul-rio-grandense (IFSul) – Campus Bagé, considerando as transformações ocorridas na organização do trabalho e as experiências vivenciadas pelos servidores participantes do programa.\n\nA escolha do formato podcast buscou ampliar as possibilidades de socialização e divulgação dos conhecimentos produzidos pela pesquisa, utilizando uma linguagem acessível e um recurso digital de fácil disseminação e acesso. Dessa forma, o produto pretende aproximar os resultados da investigação do cotidiano institucional, possibilitando que servidores, gestores, estudantes e demais interessados tenham contato com as discussões relacionadas às transformações nas relações de trabalho decorrentes da implementação do PGD.\n\nA série é composta por três episódios, nos quais são apresentados e discutidos aspectos identificados durante a pesquisa, contemplando as mudanças na organização e no desenvolvimento das atividades laborais, os desafios e as possibilidades decorrentes da adoção do trabalho remoto e as percepções dos servidores acerca das novas formas de organização do trabalho. O conteúdo procura estabelecer uma relação entre os fundamentos teóricos que orientaram a pesquisa e as experiências concretas observadas no contexto do IFSul – Campus Bagé.\n\nAssim, o podcast constitui-se como um recurso educacional e de divulgação científica que busca compartilhar os conhecimentos produzidos pela pesquisa e estimular a reflexão sobre as mudanças nas relações de trabalho no contexto da Educação Profissional e Tecnológica, contribuindo para o debate sobre os impactos, desafios e potencialidades do PGD nas instituições públicas de ensino.",
+    "keywords": [
+      "Porgrama de Gestão e Desempenho",
+      "Educação Profissional e Tecnológica",
+      "Relações de Trabalho",
+      "Gestão Pública"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/bitstream/capes/1133643/2/Conhecendo%20e%20refletindo%20sobre%20PGD%20atrav%c3%a9s%20da%20Escuta.pdf",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 40,
+    "code": "PE-40",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "O Gerencialismo na Educação Profissional e Tecnológica",
+    "authors": [
+      {
+        "name": "William Junior Sperb",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Maria Raquel Caetano",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional “O Gerencialismo na Educação Profissional e Tecnológica” é um livro digital que tem o objetivo de servir ao leitor como material informativo e de referência para compreensão dos desdobramentos do gerencialismo, em recorte voltado aos impactos na educação, em especial em um Instituto de Educação Profissional e Tecnológica. O material apresenta uma breve explanação acerca do neoliberalismo, a caracterização do gerencialismo para, então, apresentar o Programa Novos Caminhos do Governo Federal (PNC), seus eixos e metas que conduzem a administração pública a uma gestão focada em resultados.\nApresentado o PNC, o material aborda a Plataforma Nilo Peçanha (PNP), em busca de servir de guia, ao leitor, sobre como utilizar a plataforma e obter os números de matrículas por instituição que compõe a rede Educação Profissional e Tecnológica no país, por eixo, curso, modalidade de oferta (dentre outros filtros possíveis), bem como de explanar os impactos no orçamento das instituições em razão do número de matrículas registrado na plataforma.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "Programa Novos Caminhos",
+      "Gerencialismo",
+      "Instituto Federal",
+      "Cursos de Formação Inicial e Continuada (FIC)"
+    ],
+    "links": [
+      {
+        "url": "http://educapes.capes.gov.br/handle/capes/917461",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 41,
+    "code": "PE-41",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "APLs, Educação e Desenvolvimento Regional: um olhar sobre Charqueadas e Região Carboni",
+    "authors": [
+      {
+        "name": "DEBORA ALMEIDA TOLOTTI",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Este e-book é o produto educacional desenvolvido no âmbito do Mestrado em Educação Profissional e Tecnológica (ProfEPT), a partir da pesquisa sobre a trajetória do Instituto Federal Sul-rio-grandense (IFSul) no município de Charqueadas-RS e suas contribuições para o desenvolvimento regional.\n\nA publicação reúne aspectos históricos, dados institucionais e reflexões acerca da educação profissional no município, destacando a implantação e consolidação do Câmpus Charqueadas e sua relação com o território e com o Arranjo Produtivo Local da Região Carbonífera.\n\nMais do que apresentar informações, este material busca preservar e socializar memórias, trajetórias e resultados construídos ao longo da presença do IFSul em Charqueadas. Elaborado em linguagem acessível e com acesso livre e gratuito, o e-book pretende aproximar a produção acadêmica da comunidade, contribuindo para o reconhecimento da importância da educação profissional e tecnológica na formação de sujeitos e na construção do desenvolvimento regional.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "Memória",
+      "Desenvolvimento Regional",
+      "Arranjo Produtivo Local",
+      "Charqueadas"
+    ],
+    "links": [
+      {
+        "url": "https://canva.link/ltdwmf5a2oxvt4f",
+        "type": "canva",
+        "label": "Abrir no Canva",
+        "yt_id": null
+      }
+    ],
+    "media_type": "interactive",
+    "likes": 0
+  },
+  {
+    "id": 42,
+    "code": "PE-42",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Violências e seus impactos na vida das mulheres estudantes da EJA/EPT do IFRS – Campus Alvorada: uma análise dos ambientes escolar, profissional e familiar",
+    "authors": [
+      {
+        "name": "Claudia Cristina Ludwig dos Santos",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Walkiria Helena Cordenonzi",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O produto educacional intitulado “Violência Contra Mulheres: Entenda, Reconheça e Quebre o Ciclo” constitui um desdobramento dos resultados da pesquisa intitulada “Violências e seus impactos na vida das mulheres estudantes da EJA/EPT do IFRS – Campus Alvorada: uma análise dos ambientes escolar, profissional e familiar”, estando diretamente articulado às análises desenvolvidas a partir das narrativas das estudantes da EJA/EPT. Os achados evidenciaram a naturalização de diferentes formas de violência, a dificuldade no reconhecimento dessas vivências e a presença de processos de silenciamento que atravessam as trajetórias escolar, profissional e familiar das participantes. Como resposta pedagógica às necessidades identificadas no estudo, o recurso foi elaborado para ampliar o acesso à informação, favorecer a identificação das violências contra as mulheres e subsidiar ações educativas na Educação Profissional e Tecnológica.\nAlinhado ao regulamento do Programa de Pós-Graduação em Educação Profissional e Tecnológica (ProfEPT), o produto educacional não se configura como elemento complementar, mas como parte constitutiva do processo de investigação, traduzindo conhecimento científico em material aplicável à realidade social e escolar. O recurso desenvolvido consiste em um vídeo educativo e formativo que apresenta os diferentes tipos de violência previstos na legislação brasileira, exemplificando como essas práticas se manifestam no cotidiano e disponibilizando os canais institucionais de apoio e denúncia.\nA opção pelo formato audiovisual justifica-se por sua potencialidade de circulação em diferentes espaços educativos e por sua adequação ao público da EJA/EPT. As imagens utilizadas foram selecionadas em bancos de dados de livre uso (plataforma Canva), assegurando preceitos éticos de preservação da identidade das participantes. Do ponto de vista teórico-pedagógico, o produto fundamenta-se nas contribuições de Bacich e Moran (2018), sobre o potencial mediador das mídias digitais na reconfiguração das práticas pedagógicas, e na pedagogia libertadora de Freire (2013), que concebe a educação como prática dialógica orientada à leitura crítica da realidade e à emancipação dos sujeitos.\nA avaliação do produto foi realizada junto ao grupo de participantes da pesquisa por meio de um questionário on-line, com o objetivo de verificar a clareza, a pertinência e o potencial formativo do material. Os resultados indicaram concordância quanto à relevância das informações, à clareza da linguagem e à contribuição do recurso para o reconhecimento de violências anteriormente não identificadas. Nas reflexões qualitativas, as participantes destacaram o potencial encorajador da obra e a importância de promover ações educativas que \"plantem sementes\" de transformação e fortaleçam o debate institucional sobre a equidade de gênero.\nO material encontra-se publicado e acessível no repositório EduCapes sob o título \"Violência Contra Mulheres: Entenda, Reconheça e Quebre o Ciclo\" (https://educapes.capes.gov.br/handle/capes/1180366), com exibição audiovisual disponível no YouTube (https://youtu.be/yoQLb5ZnUJc). O produto é disponibilizado como Recurso Educacional Aberto (REA) sob a Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0).\nVinculado ao eixo de Organização e Memórias de Espaços Pedagógicos do ProfEPT, o produto educacional reafirma que a formação técnica e tecnológica é inseparável das relações sociais e das trajetórias de vida das estudantes. Ao transformar os resultados da pesquisa em um material formativo, reafirma-se o compromisso do Mestrado Profissional em Educação Profissional e Tecnológica com a produção de conhecimentos que dialoguem com a realidade escolar e retornem à comunidade como possibilidade concreta de reflexão e ação. O produto educacional, ao articular teoria e prática, não se limita à transmissão de informações, mas se configura como instrumento de apoio à reflexão crítica, ao fortalecimento de direitos e à promoção de práticas educativas comprometidas com a equidade, contribuindo para o enfrentamento de uma problemática que atravessa as trajetórias de muitas mulheres e impacta diretamente seus percursos formativos.",
+    "keywords": [
+      "Violência contra a mulher",
+      "Educação",
+      "EJA",
+      "EPT"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1180366",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      },
+      {
+        "url": "https://youtu.be/yoQLb5ZnUJc",
+        "type": "youtube",
+        "label": "Assistir no YouTube",
+        "yt_id": "yoQLb5ZnUJc"
+      }
+    ],
+    "media_type": "video",
+    "likes": 0
+  },
+  {
+    "id": 43,
+    "code": "PE-43",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFFAR",
+    "titulo": "Guia Prático para o Fortalecimento do Trabalho Pedagógico, da Permanência e do Êxito Estudantil",
+    "authors": [
+      {
+        "name": "Mariele Brum Bempch",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Adão Caron Cambraia",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Apresentamos o Guia Prático para o Fortalecimento do Trabalho Pedagógico, da Permanência e do Êxito Estudantil. Este guia é o produto educacional da pesquisa intitulada “O trabalho pedagógico num curso de Licenciatura em Matemática: implicações na evasão e na permanência estudantil”, realizada no âmbito do Instituto Federal Farroupilha – campus Alegrete, do Programa de Pós-Graduação em Educação Profissional e Tecnológica – ProfEPT, campus Jaguari, na Linha de Pesquisa Organização e Memórias de Espaços Pedagógicos na Educação Profissional e Tecnológica - Macroprojeto 6 – Organização de espaços pedagógicos da Educação Profissional e Tecnológica, que buscou analisar as concepções sobre o trabalho pedagógico dos docentes no curso de Licenciatura em Matemática no intuito de entender as possíveis implicações relacionadas a evasão, a permanência e o êxito dos estudantes.",
+    "keywords": [
+      "Trabalho Pedagógico",
+      "Permanência",
+      "Evasão"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1174877",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 44,
+    "code": "PE-44",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFSUL",
+    "titulo": "Produto educacional para valorização e fortalecimento da atuação do administrador no IFSul: elaboração, aplicação e avaliação",
+    "authors": [
+      {
+        "name": "Silvana Einhardt Rios",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Luciana Neves Loponte",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional, intitulado Plano de Valorização e Fortalecimento da Atuação do Administrador no IFSul, foi desenvolvido no âmbito do Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT), a partir dos resultados da pesquisa sobre a trajetória acadêmica e profissional, a atuação e a contribuição dos administradores para a função social do Instituto Federal Sul-rio-grandense (IFSul). \nO plano tem como objetivo propor ações estratégicas voltadas ao reconhecimento, à valorização e ao fortalecimento da atuação dos administradores, considerando suas competências profissionais e seu potencial de contribuição para o planejamento, a gestão e o desenvolvimento institucional. Sua elaboração foi fundamentada no referencial teórico da pesquisa e nos dados obtidos junto aos administradores do IFSul, sistematizados por meio da análise SWOT. O produto está estruturado de forma a apresentar o diagnóstico da situação atual, a análise crítica e um conjunto de ações e sugestões de melhorias institucionais. Destina-se principalmente aos gestores do IFSul, como material de apoio à compreensão das atribuições e possibilidades de atuação dos administradores, buscando favorecer maior integração entre sua formação profissional e as demandas institucionais. Dessa forma, o Produto Educacional constitui uma proposta de intervenção aplicável ao contexto da Educação Profissional e Tecnológica, com potencial para contribuir para o fortalecimento da atuação dos administradores no IFSul.",
+    "keywords": [
+      "Produto educacional",
+      "administrador",
+      "valorização",
+      "educação profissional e tecnológica",
+      "IFSul"
+    ],
+    "links": [
+      {
+        "url": "https://educapes.capes.gov.br/handle/capes/1174655",
+        "type": "educapes",
+        "label": "Acessar no EduCAPES",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 45,
+    "code": "PE-45",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFFAR",
+    "titulo": "Educação que acontece nos bastidores: a importância da participação coletiva nos processos de compras no IFFar",
+    "authors": [
+      {
+        "name": "Julien Bertoldo de Melo",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Catiane Mazocco Paniz",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "Esta cartilha educativa tem como objetivo destacar a importância da participação coletiva nos processos de compras públicas do IFFar, evidenciando que a efetividade das contratações depende da atuação articulada dos diferentes atores envolvidos. Destinada a docentes e técnicos administrativos em educação, enfatiza a fase interna do processo, especialmente o papel dos requerentes/demandantes, responsáveis por apresentar as demandas e fornecer informações técnicas essenciais à contratação. Por meio de linguagem acessível, exemplos práticos, orientações e checklists, busca sensibilizar os servidores sobre a corresponsabilidade nos processos de compras e sua contribuição para o ensino, a pesquisa e a extensão.",
+    "keywords": [
+      "Educação Profissional e Tecnológica",
+      "compras públicas",
+      "licitações",
+      "cultura institucional"
+    ],
+    "links": [
+      {
+        "url": "https://integra.iffarroupilha.edu.br/vitrine/educacao-que-acontece-nos-bastidores--a-importancia-da-participacao-coletiva-nos-processos-de-compras-no-iffar",
+        "type": "repository",
+        "label": "Repositório Institucional",
+        "yt_id": null
+      }
+    ],
+    "media_type": "document",
+    "likes": 0
+  },
+  {
+    "id": 46,
+    "code": "PE-46",
+    "linha": "Linha 2 - Organização e Memórias na EPT",
+    "linha_code": "L2",
+    "ia": "IFFAR",
+    "titulo": "A Criação e o Desenvolvimento do Instituto Federal Farroupilha – Campus Jaguari pelas Vozes do(a)s ex- Diretore(a)s de Ensino",
+    "authors": [
+      {
+        "name": "Érika Coceiro da Costa",
+        "role": "Pesquisador(a) / Mestrando(a)"
+      },
+      {
+        "name": "Daniela Santos Copetti",
+        "role": "Orientador(a)"
+      }
+    ],
+    "resumo": "O Produto Educacional consiste em um documentário intitulado **“A Criação e o Desenvolvimento do Instituto Federal Farroupilha – Campus Jaguari pelas Vozes dos(as) Ex-Diretores(as) de Ensino”**, desenvolvido no âmbito do ProfEPT. O material reúne depoimentos de ex-diretores(as) de ensino, documentos, fotografias e registros históricos com o objetivo de preservar e socializar a memória institucional do Campus Jaguari.\n\nPor meio da linguagem audiovisual, o documentário apresenta aspectos relacionados à criação, organização e desenvolvimento da instituição, valorizando as experiências dos sujeitos que participaram desse processo. Além de constituir um registro histórico, o produto possui caráter educativo, podendo ser utilizado em ações de formação, acolhimento de novos servidores, atividades pedagógicas e iniciativas voltadas ao fortalecimento da identidade e do sentimento de pertencimento institucional.",
+    "keywords": [
+      "Memória institucional",
+      "História oral",
+      "Educação Profissional e Tecnológica"
+    ],
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=873vAEXDicQ",
+        "type": "youtube",
+        "label": "Assistir no YouTube",
+        "yt_id": "873vAEXDicQ"
+      }
+    ],
+    "media_type": "video",
+    "likes": 0
+  }
+];
